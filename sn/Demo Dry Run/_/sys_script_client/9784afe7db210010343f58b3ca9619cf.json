@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": null,
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "DemoDRCS1",
+  "order": null,
+  "script": {
+    "____see": "sn\\Demo Dry Run\\Client Script\\{--none--}\\active_true\\DemoDRCS1.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-12 14:10:46",
+  "sys_id": "9784afe7db210010343f58b3ca9619cf",
+  "sys_mod_count": 1,
+  "sys_name": "DemoDRCS1",
+  "sys_package": "40f3afa7db210010343f58b3ca9619c2",
+  "sys_policy": null,
+  "sys_scope": "40f3afa7db210010343f58b3ca9619c2",
+  "sys_update_name": "sys_script_client_9784afe7db210010343f58b3ca9619cf",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-12 14:10:54",
+  "table": null,
+  "type": null,
+  "ui_type": 0,
+  "view": null
+}
