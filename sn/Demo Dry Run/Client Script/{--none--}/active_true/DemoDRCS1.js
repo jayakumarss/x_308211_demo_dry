@@ -3,11 +3,11 @@
  * ClassName   : sys_script_client
  * Created On  : 2019-12-12 14:10:46
  * Created By  : admin
- * Updated On  : 2019-12-12 14:10:54
+ * Updated On  : 2019-12-12 14:22:05
  * Updated By  : admin
  * URL         : /sys_script_client.do?sys_id=9784afe7db210010343f58b3ca9619cf
  */
-test();
+
 /**
  * Description
  * 
@@ -17,5 +17,5 @@ test();
  */
 function test2(){
 	var test1;
-	alert('test');
+	
 }
