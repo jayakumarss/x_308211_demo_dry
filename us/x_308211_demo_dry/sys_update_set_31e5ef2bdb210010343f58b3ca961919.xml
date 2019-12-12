@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-12 14:16:02">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<application_name>Demo Dry Run</application_name>
+<application_scope>x_308211_demo_dry</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo Dry Run - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>31e5ef2bdb210010343f58b3ca961919</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>b4f5276bdb210010343f58b3ca961970</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_dcf3e3e7db210010343f58b3ca961998</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>Demo Dry Run</name><order/><roles>x_308211_demo_dry.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dcf3e3e7db210010343f58b3ca961998</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Demo Dry Run</sys_name><sys_overrides/><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_app_application_dcf3e3e7db210010343f58b3ca961998</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><title>Demo Dry Run</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>342804364</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>30f5276bdb210010343f58b3ca961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7743150000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Demo Dry Run</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>71e5e36b1e210010f8183ae74657fe69</update_guid>
+<update_guid_history>71e5e36b1e210010f8183ae74657fe69:342804364,90f327e783210010df489194d94c6624:342804364,d4f3e3e786210010183d3b32266ab89a:-464908913</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_6cf327e7db210010343f58b3ca961955</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>6cf327e7db210010343f58b3ca961955</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_security_acl display_value="x_308211_demo_dry_run_table">e0f327e7db210010343f58b3ca961953</sys_security_acl><sys_update_name>sys_security_acl_role_6cf327e7db210010343f58b3ca961955</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><sys_user_role display_value="x_308211_demo_dry.user" name="x_308211_demo_dry.user">98f3e3e7db210010343f58b3ca96199b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1230203610</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>30f5276bdb210010343f58b3ca961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742930000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>79e5e36b05210010f2ebb53478166745</update_guid>
+<update_guid_history>79e5e36b05210010f2ebb53478166745:-1230203610,68f327e7d321001080c288f96fa18257:-1230203610</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_60f327e7db210010343f58b3ca961930</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_dry_run_table</description><name>x_308211_demo_dry_run_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>60f327e7db210010343f58b3ca961930</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_security_acl_60f327e7db210010343f58b3ca961930</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>412859848</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>34f5276bdb210010343f58b3ca961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7741cf0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>b5e5e36b89210010394f2b98e50d7737</update_guid>
+<update_guid_history>b5e5e36b89210010394f2b98e50d7737:412859848,60f327e78a210010279bc8114220d932:412859848</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_308211_demo_dry_run_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Demo Dry Run Table" language="en" table="x_308211_demo_dry_run_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Demo Dry Run Table</label><language>en</language><name>x_308211_demo_dry_run_table</name><plural>Demo Dry Run Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:17</sys_created_on><sys_id>e0f327e7db210010343f58b3ca96197a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dry Run Table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_documentation_x_308211_demo_dry_run_table__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:17</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-199699868</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>38f5276bdb210010343f58b3ca961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7743250000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>Demo Dry Run Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>79e5e36bdd2100102bcf3a8bb9e5bc6a</update_guid>
+<update_guid_history>79e5e36bdd2100102bcf3a8bb9e5bc6a:-199699868,a8f327e749210010684e9e5c7eafa791:-199699868</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_35d4e32bdb210010343f58b3ca9619c6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>Demo DR Test</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:11:22</sys_created_on><sys_id>35d4e32bdb210010343f58b3ca9619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo DR Test</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_atf_test_35d4e32bdb210010343f58b3ca9619c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:11:22</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=35d4e32bdb210010343f58b3ca9619c6"/></record_update>]]></payload>
+<payload_hash>1572949682</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>3cf5276bdb210010343f58b3ca961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742560000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Demo DR Test</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>f9e5e36bf121001078609f3b6de92540</update_guid>
+<update_guid_history>f9e5e36bf121001078609f3b6de92540:1572949682,a8e4e32bf521001020f7219c23d449cc:1572949682</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_f8f327e7db210010343f58b3ca961999</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Demo Dry Run">b8f327e7db210010343f58b3ca961997</application><filter/><name>Demo Dry Run Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_308211_demo_dry.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f8f327e7db210010343f58b3ca961999</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dry Run Table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_ui_module_f8f327e7db210010343f58b3ca961999</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:17</sys_updated_on><table>x_308211_demo_dry_run_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>257143198</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>3cf5276bdb210010343f58b3ca961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7743640000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>Demo Dry Run Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>75e5e36b902100107dbc89371d31416f</update_guid>
+<update_guid_history>75e5e36b902100107dbc89371d31416f:257143198,3cf327e7e421001095153e99d7f549e5:257143198</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_1cf327e7db210010343f58b3ca961929</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_dry_run_table</description><name>x_308211_demo_dry_run_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>1cf327e7db210010343f58b3ca961929</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_security_acl_1cf327e7db210010343f58b3ca961929</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-462492652</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>70f5276bdb210010343f58b3ca961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7741bc0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>31e5e36b1d2100106e77b2c6757aa336</update_guid>
+<update_guid_history>31e5e36b1d2100106e77b2c6757aa336:-462492652,94f327e7be210010e533fa69973f972c:-462492652</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_308211_demo_dry_run_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_308211_demo_dry_run_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_308211_demo_dry_run_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-12 14:07:16&lt;/sys_created_on&gt;&lt;sys_id&gt;24f327e7db210010343f58b3ca961958&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_308211_demo_dry_run_table&lt;/sys_name&gt;&lt;sys_package display_value="Demo Dry Run" source="x_308211_demo_dry"&gt;40f3afa7db210010343f58b3ca9619c2&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo Dry Run"&gt;40f3afa7db210010343f58b3ca9619c2&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_308211_demo_dry_run_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 14:07:16&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2032577167</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>74f5276bdb210010343f58b3ca961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa77420e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>Demo Dry Run Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>bde5e36b382100101f90e9de5ecb503b</update_guid>
+<update_guid_history>bde5e36b382100101f90e9de5ecb503b:2032577167,a4f327e7062100106f61ebcc3fa5b690:2032577167</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_2cf327e7db210010343f58b3ca96198d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_308211_demo_dry_run_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:17</sys_created_on><sys_id>2cf327e7db210010343f58b3ca96198d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>ua_table_licensing_config_2cf327e7db210010343f58b3ca96198d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:17</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>30961863</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>74f5276bdb210010343f58b3ca961975</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa77422f0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>x_308211_demo_dry_run_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>b5e5e36ba5210010ef2e51c29a06a03d</update_guid>
+<update_guid_history>b5e5e36ba5210010ef2e51c29a06a03d:30961863,2cf327e7d42100102eea3ea96649a48e:30961863</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_40f3afa7db210010343f58b3ca9619c2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="Demo Dry Run">dcf3e3e7db210010343f58b3ca961998</menu><name>Demo Dry Run</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_308211_demo_dry</scope><scoped_administration>false</scoped_administration><short_description/><source>x_308211_demo_dry</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>40f3afa7db210010343f58b3ca9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_308211_demo_dry.user" name="x_308211_demo_dry.user">98f3e3e7db210010343f58b3ca96199b</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1786617917</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>78f5276bdb210010343f58b3ca961970</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa77414d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Demo Dry Run</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>b5e5ef2b08210010c0e197c940c1661b</update_guid>
+<update_guid_history>b5e5ef2b08210010c0e197c940c1661b:-1786617917,5cf327e75d210010a790638a633d3e20:-1786617917</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_ef95ef2bdb210010343f58b3ca96199d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Run Server Side Validation Script</description><display_name>Run Server Side Script</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Run Server Side Script">41de4a935332120028bc29cac2dc349a</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:15:15</sys_created_on><sys_id>ef95ef2bdb210010343f58b3ca96199d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Run Server Side Script</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_atf_step_ef95ef2bdb210010343f58b3ca96199d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:15:15</sys_updated_on><table/><test display_value="Demo DR Test2">b285af2bdb210010343f58b3ca961959</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=ef95ef2bdb210010343f58b3ca96199d"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ef95ef2bdb210010343f58b3ca96199d</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:15:15</sys_created_on><sys_id>11c56b2bdb210010343f58b3ca961946</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:15:15</sys_updated_on><value>// You can use this step to execute a variety of server-side javascript tests including&#13;
+// jasmine tests and custom assertions&#13;
+//&#13;
+//&#13;
+// Pass or fail a step: Override the step outcome to pass or fail. This is ignored &#13;
+//                      by jasmine tests&#13;
+//&#13;
+//  - Return true from the main function body to pass the step&#13;
+//  - Return false from the main function body to fail the step&#13;
+//&#13;
+//&#13;
+// outputs:       Pre-defined Step config Output variables to set on this step during &#13;
+//                execution that are available to later steps&#13;
+//&#13;
+// steps(SYS_ID): A function to retrieve Output variable data from a step that executed&#13;
+//                earlier in the test. The desired step's sys_id is required&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      // Test step 1 - add data&#13;
+//      var gr = new GlideRecord('sc_task');&#13;
+//      // this sample step's Step config has Output variables named table and record_id&#13;
+//      outputs.table = 'sc_task';&#13;
+//      outputs.record_id = gr.insert();&#13;
+//&#13;
+//      // Test step 2 - access added data and validate&#13;
+//      // check that the record exists (or that business logic changed it)&#13;
+//      var gr = new GlideRecord("sc_task");&#13;
+//      gr.get(steps(PREVIOUS_STEP_SYS_ID).record_id);&#13;
+//      assertEqual({name: "task gr exists", shouldbe: true, value: gr.isValidRecord()});&#13;
+//&#13;
+//&#13;
+// stepResult.setOutputMessage: Log a message to step results after step executes.&#13;
+//                              Can only be called once or will overwrite previous &#13;
+//                              message&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      var gr = new GlideRecord('sc_task');&#13;
+//      gr.setValue('short_description', 'verify task can be inserted');&#13;
+//      var grSysId = gr.insert();&#13;
+//      var justCreatedGR = new GlideRecord('sc_task');&#13;
+//      if (justCreatedGR.get(grSysId)) {&#13;
+//            stepResult.setOutputMessage("Successfully inserted task record");&#13;
+//            return true; // pass the step&#13;
+//      } else { &#13;
+//            stepResult.setOutputMessage("Failed to insert task record");&#13;
+//            return false; // fail the step&#13;
+//      }&#13;
+//&#13;
+//&#13;
+// Note: describe is only supported in Global scope.&#13;
+// Use 'describe' to create a suite of test scripts and 'it' to define test expectations&#13;
+//&#13;
+//  Example jasmine test:&#13;
+//&#13;
+//      describe('my suite of script tests', function() {&#13;
+//            it('should meet expectations', function() {&#13;
+//                  expect(true).not.toBe(false);&#13;
+//            });&#13;
+//      });&#13;
+//      // make sure to uncomment jasmine.getEnv().execute(); outside the function body&#13;
+//&#13;
+//&#13;
+// assertEqual: A function used to compare that assertion.shouldbe == assertion.value;&#13;
+//              in case of failure it throws an Error and logs that the assertion by&#13;
+//              name has failed&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      var testAssertion = {&#13;
+//            name: "my test assertion",&#13;
+//            shouldbe: "expected value"&#13;
+//            value: "actual value",&#13;
+//      };&#13;
+//      assertEqual(testAssertion); // throws Error, logs message to test step output&#13;
+//&#13;
+/**&#13;
+ * Description&#13;
+ * &#13;
+ * @method anonymous-3233&#13;
+ * @author System Administrator [admin]&#13;
+ * @requires x_308211_demo_dry.module:sys_script_include.DemoDryRun1&#13;
+ * @memberof x_308211_demo_dry.module:sys_atf_step&#13;
+ * @returns {undefined}&#13;
+ */&#13;
+(function(outputs, steps, stepResult, assertEqual) {&#13;
+    // add test script here&#13;
+return new x_308211_demo_dry.DemoDryRun1().executeTest();&#13;
+})(outputs, steps, stepResult, assertEqual);&#13;
+// uncomment the next line to execute this script as a jasmine test&#13;
+//jasmine.getEnv().execute();&#13;
+</value><variable display_value="">989d9e235324220002c6435723dc3484</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ef95ef2bdb210010343f58b3ca96199d</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:15:15</sys_created_on><sys_id>5dc56b2bdb210010343f58b3ca961945</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:15:15</sys_updated_on><value>3.1</value><variable display_value="">42f2564b73031300440211d8faf6a777</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>1562304478</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>78f5276bdb210010343f58b3ca961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7741980000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Run Server Side Script</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>b9e5ef2b6a210010fdcc1192d6446b1f</update_guid>
+<update_guid_history>b9e5ef2b6a210010fdcc1192d6446b1f:1562304478,91c56b2b3b2100109d6397f6f476d447:1562304478</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_b8f327e7db210010343f58b3ca961997</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Demo Dry Run</name><order/><roles>x_308211_demo_dry.user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8f327e7db210010343f58b3ca961997</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dry Run</sys_name><sys_overrides/><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_ui_application_b8f327e7db210010343f58b3ca961997</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:17</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>-1965228655</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>78f5276bdb210010343f58b3ca961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7743060000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Demo Dry Run</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>b9e5e36bb12100107625e8bfa9dc9c67</update_guid>
+<update_guid_history>b9e5e36bb12100107625e8bfa9dc9c67:-1965228655,fcf327e736210010a331d84cf115e998:-1965228655</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_50f327e7db210010343f58b3ca96192d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>50f327e7db210010343f58b3ca96192d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_security_acl display_value="x_308211_demo_dry_run_table">1cf327e7db210010343f58b3ca961929</sys_security_acl><sys_update_name>sys_security_acl_role_50f327e7db210010343f58b3ca96192d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><sys_user_role display_value="x_308211_demo_dry.user" name="x_308211_demo_dry.user">98f3e3e7db210010343f58b3ca96199b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1863802998</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>7cf5276bdb210010343f58b3ca961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742810000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>b1e5e36b3821001049c7b2cb2e243044</update_guid>
+<update_guid_history>b1e5e36b3821001049c7b2cb2e243044:1863802998,24f327e70c2100104346b895777fb22f:1863802998</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_80f3afa7db210010343f58b3ca9619c2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Demo Dry Run Table</label><live_feed_enabled>false</live_feed_enabled><name>x_308211_demo_dry_run_table</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Task" name="task">29c855b47420330078509adcc48c8788</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>80f3afa7db210010343f58b3ca9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dry Run Table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_db_object_80f3afa7db210010343f58b3ca9619c2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><update_access>false</update_access><user_role display_value="x_308211_demo_dry.user" name="x_308211_demo_dry.user">98f3e3e7db210010343f58b3ca96199b</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1607506389</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>b0f5276bdb210010343f58b3ca961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742cd0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>Demo Dry Run Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>b1e5e36bda2100108cf0669ee7c3234a</update_guid>
+<update_guid_history>b1e5e36bda2100108cf0669ee7c3234a:1607506389,7cf327e73e2100108cb42452cef37d92:1607506389</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_e4f327e7db210010343f58b3ca961978</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Demo Dry Run Table</answer><button_label/><dependent_value/><element/><name>Demo Dry Run Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">2dc855b47420330078509adcc48c8789</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:17</sys_created_on><sys_id>e4f327e7db210010343f58b3ca961978</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dry Run Table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_wizard_answer_e4f327e7db210010343f58b3ca961978</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:17</sys_updated_on><table/><target_url>x_308211_demo_dry_run_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>-1525080602</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>b0f5276bdb210010343f58b3ca961975</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa77433d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Demo Dry Run Table</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>35e5e36bd32100102390bef8dcf0966c</update_guid>
+<update_guid_history>35e5e36bd32100102390bef8dcf0966c:-1525080602</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_09f4672bdb210010343f58b3ca96195e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Run Server Side Validation Script</description><display_name>Run Server Side Script</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Run Server Side Script">41de4a935332120028bc29cac2dc349a</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:12:24</sys_created_on><sys_id>09f4672bdb210010343f58b3ca96195e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Run Server Side Script</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_atf_step_09f4672bdb210010343f58b3ca96195e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:12:24</sys_updated_on><table/><test display_value="Demo DR Test">35d4e32bdb210010343f58b3ca9619c6</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=09f4672bdb210010343f58b3ca96195e"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>09f4672bdb210010343f58b3ca96195e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:12:24</sys_created_on><sys_id>b715e72bdb210010343f58b3ca96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:12:24</sys_updated_on><value>3.1</value><variable display_value="">42f2564b73031300440211d8faf6a777</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>09f4672bdb210010343f58b3ca96195e</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:12:24</sys_created_on><sys_id>ff15e72bdb210010343f58b3ca96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:12:24</sys_updated_on><value>// You can use this step to execute a variety of server-side javascript tests including&#13;
+// jasmine tests and custom assertions&#13;
+//&#13;
+//&#13;
+// Pass or fail a step: Override the step outcome to pass or fail. This is ignored &#13;
+//                      by jasmine tests&#13;
+//&#13;
+//  - Return true from the main function body to pass the step&#13;
+//  - Return false from the main function body to fail the step&#13;
+//&#13;
+//&#13;
+// outputs:       Pre-defined Step config Output variables to set on this step during &#13;
+//                execution that are available to later steps&#13;
+//&#13;
+// steps(SYS_ID): A function to retrieve Output variable data from a step that executed&#13;
+//                earlier in the test. The desired step's sys_id is required&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      // Test step 1 - add data&#13;
+//      var gr = new GlideRecord('sc_task');&#13;
+//      // this sample step's Step config has Output variables named table and record_id&#13;
+//      outputs.table = 'sc_task';&#13;
+//      outputs.record_id = gr.insert();&#13;
+//&#13;
+//      // Test step 2 - access added data and validate&#13;
+//      // check that the record exists (or that business logic changed it)&#13;
+//      var gr = new GlideRecord("sc_task");&#13;
+//      gr.get(steps(PREVIOUS_STEP_SYS_ID).record_id);&#13;
+//      assertEqual({name: "task gr exists", shouldbe: true, value: gr.isValidRecord()});&#13;
+//&#13;
+//&#13;
+// stepResult.setOutputMessage: Log a message to step results after step executes.&#13;
+//                              Can only be called once or will overwrite previous &#13;
+//                              message&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      var gr = new GlideRecord('sc_task');&#13;
+//      gr.setValue('short_description', 'verify task can be inserted');&#13;
+//      var grSysId = gr.insert();&#13;
+//      var justCreatedGR = new GlideRecord('sc_task');&#13;
+//      if (justCreatedGR.get(grSysId)) {&#13;
+//            stepResult.setOutputMessage("Successfully inserted task record");&#13;
+//            return true; // pass the step&#13;
+//      } else { &#13;
+//            stepResult.setOutputMessage("Failed to insert task record");&#13;
+//            return false; // fail the step&#13;
+//      }&#13;
+//&#13;
+//&#13;
+// Note: describe is only supported in Global scope.&#13;
+// Use 'describe' to create a suite of test scripts and 'it' to define test expectations&#13;
+//&#13;
+//  Example jasmine test:&#13;
+//&#13;
+//      describe('my suite of script tests', function() {&#13;
+//            it('should meet expectations', function() {&#13;
+//                  expect(true).not.toBe(false);&#13;
+//            });&#13;
+//      });&#13;
+//      // make sure to uncomment jasmine.getEnv().execute(); outside the function body&#13;
+//&#13;
+//&#13;
+// assertEqual: A function used to compare that assertion.shouldbe == assertion.value;&#13;
+//              in case of failure it throws an Error and logs that the assertion by&#13;
+//              name has failed&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      var testAssertion = {&#13;
+//            name: "my test assertion",&#13;
+//            shouldbe: "expected value"&#13;
+//            value: "actual value",&#13;
+//      };&#13;
+//      assertEqual(testAssertion); // throws Error, logs message to test step output&#13;
+//&#13;
+/**&#13;
+ * Description&#13;
+ * &#13;
+ * @method anonymous-3233&#13;
+ * @author System Administrator [admin]&#13;
+ * @requires x_308211_demo_dry.module:sys_script_include.DemoDryRun1&#13;
+ * @memberof x_308211_demo_dry.module:sys_atf_step&#13;
+ * @returns {undefined}&#13;
+ */&#13;
+(function(outputs, steps, stepResult, assertEqual) {&#13;
+    // add test script here&#13;
+	return new x_308211_demo_dry.DemoDryRun1().executeTest();&#13;
+&#13;
+})(outputs, steps, stepResult, assertEqual);&#13;
+// uncomment the next line to execute this script as a jasmine test&#13;
+//jasmine.getEnv().execute();&#13;
+</value><variable display_value="">989d9e235324220002c6435723dc3484</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-1983533620</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>b4f5276bdb210010343f58b3ca961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7741740000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Run Server Side Script</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>f9e5ef2b53210010000d10a35b82981d</update_guid>
+<update_guid_history>f9e5ef2b53210010000d10a35b82981d:-1983533620,7715e72b4021001061da2bea97708151:-1983533620</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_e8f327e7db210010343f58b3ca961950</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>e8f327e7db210010343f58b3ca961950</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_security_acl display_value="x_308211_demo_dry_run_table">e0f327e7db210010343f58b3ca961935</sys_security_acl><sys_update_name>sys_security_acl_role_e8f327e7db210010343f58b3ca961950</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><sys_user_role display_value="x_308211_demo_dry.user" name="x_308211_demo_dry.user">98f3e3e7db210010343f58b3ca96199b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-470012694</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>b4f5276bdb210010343f58b3ca961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742b70000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>f5e5e36bd0210010f989b765be5da448</update_guid>
+<update_guid_history>f5e5e36bd0210010f989b765be5da448:-470012694,e4f327e7d021001041a08a7f23dc8f52:-470012694</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e0f327e7db210010343f58b3ca961953</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_dry_run_table</description><name>x_308211_demo_dry_run_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>e0f327e7db210010343f58b3ca961953</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_security_acl_e0f327e7db210010343f58b3ca961953</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-578846862</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>b8f5276bdb210010343f58b3ca961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7741f30000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>b1e5e36b64210010f2d5e042cccda03a</update_guid>
+<update_guid_history>b1e5e36b64210010f2d5e042cccda03a:-578846862,e0f327e752210010214441c6e4e20855:-578846862</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_3204e7e7db210010343f58b3ca9619f9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_308211_demo_dry.DemoDryRun1&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;DemoDryRun1&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_308211_demo_dry.module:sys_script_include
+ */
+var DemoDryRun1 = Class.create();
+DemoDryRun1.prototype = /** @lends x_308211_demo_dry.module:sys_script_include.DemoDryRun1.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+	/**
+	 * Description
+	 * 
+	 * @returns {boolean} 
+	 */
+	executeTest: function(){
+		return true;
+	},
+	type: 'DemoDryRun1'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-12 14:09:12&lt;/sys_created_on&gt;&lt;sys_id&gt;3204e7e7db210010343f58b3ca9619f9&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoDryRun1&lt;/sys_name&gt;&lt;sys_package display_value="Demo Dry Run" source="x_308211_demo_dry"&gt;40f3afa7db210010343f58b3ca9619c2&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Demo Dry Run"&gt;40f3afa7db210010343f58b3ca9619c2&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_3204e7e7db210010343f58b3ca9619f9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 14:13:36&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>887099705</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>bcf5276bdb210010343f58b3ca961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742420000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>DemoDryRun1</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>7de5e36b312100108a01ac8ab466b53e</update_guid>
+<update_guid_history>7de5e36b312100108a01ac8ab466b53e:887099705,1d652b2b622100109e9d9f18fa51f9ca:887099705,af642fe7582100107b947305b40bf404:167626026,e06467e7552100103cbd21fb1a8432d7:-1046237954</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_f0f327e7db210010343f58b3ca961995</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Demo Dry Run">dcf3e3e7db210010343f58b3ca961998</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Demo Dry Run Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_308211_demo_dry_run_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_308211_demo_dry.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f0f327e7db210010343f58b3ca961995</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dry Run Table</sys_name><sys_overrides/><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_app_module_f0f327e7db210010343f58b3ca961995</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:17</sys_updated_on><timeline_page/><title>Demo Dry Run Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1546893365</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>f0f5276bdb210010343f58b3ca961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa77434e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>Demo Dry Run Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>3de5e36b7d2100101af9418be898d46d</update_guid>
+<update_guid_history>3de5e36b7d2100101af9418be898d46d:1546893365,3cf327e7b321001093e0bd87f805b596:1546893365</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_e8f327e7db210010343f58b3ca961932</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>e8f327e7db210010343f58b3ca961932</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_security_acl display_value="x_308211_demo_dry_run_table">60f327e7db210010343f58b3ca961930</sys_security_acl><sys_update_name>sys_security_acl_role_e8f327e7db210010343f58b3ca961932</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><sys_user_role display_value="x_308211_demo_dry.user" name="x_308211_demo_dry.user">98f3e3e7db210010343f58b3ca96199b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1454845684</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>f0f5276bdb210010343f58b3ca961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742a50000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table.x_308211_demo_dry.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>31e5e36b9a210010d3820aea1accda47</update_guid>
+<update_guid_history>31e5e36b9a210010d3820aea1accda47:1454845684,e4f327e741210010d96947942bdec534:1454845684</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e0f327e7db210010343f58b3ca961935</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_dry_run_table</description><name>x_308211_demo_dry_run_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:16</sys_created_on><sys_id>e0f327e7db210010343f58b3ca961935</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry_run_table</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_security_acl_e0f327e7db210010343f58b3ca961935</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1623315204</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>f4f5276bdb210010343f58b3ca961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7741e20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table>x_308211_demo_dry_run_table</table>
+<target_name>x_308211_demo_dry_run_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>3de5e36b9b21001092b6f64a07d05638</update_guid>
+<update_guid_history>3de5e36b9b21001092b6f64a07d05638:1623315204,60f327e7ac210010809d5417b6a29250:1623315204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_9784afe7db210010343f58b3ca9619cf</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;DemoDRCS1&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[test();
+/**
+ * Description
+ * 
+ * @author System Administrator [admin]
+ * @memberof x_308211_demo_dry.module:sys_script_client
+ * @returns {undefined}
+ */
+function test2(){
+	var test1;
+	alert('test');
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-12 14:10:46&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9784afe7db210010343f58b3ca9619cf&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoDRCS1&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Demo Dry Run" source="x_308211_demo_dry"&gt;40f3afa7db210010343f58b3ca9619c2&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo Dry Run"&gt;40f3afa7db210010343f58b3ca9619c2&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_9784afe7db210010343f58b3ca9619cf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 14:10:54&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1281238923</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>f8f5276bdb210010343f58b3ca961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742de0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>DemoDRCS1</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>39e5e36b4a210010f6dbcb029a4bc54b</update_guid>
+<update_guid_history>39e5e36b4a210010f6dbcb029a4bc54b:1281238923,31c4efa7a6210010e6462b94d1074c19:1281238923,3bb4632b742100103bae8244a601a9c5:-1890712460</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_b285af2bdb210010343f58b3ca961959</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>Demo DR Test2</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:14:26</sys_created_on><sys_id>b285af2bdb210010343f58b3ca961959</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo DR Test2</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_atf_test_b285af2bdb210010343f58b3ca961959</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:14:26</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=b285af2bdb210010343f58b3ca961959"/></record_update>]]></payload>
+<payload_hash>1410978870</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>fcf5276bdb210010343f58b3ca961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa77426b0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>Demo DR Test2</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>39e5e36be72100106f7234d9d1dafd42</update_guid>
+<update_guid_history>39e5e36be72100106f7234d9d1dafd42:1410978870,5d952f2b4c210010b138bd484c1a7607:1410978870</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_98f3e3e7db210010343f58b3ca96199b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_308211_demo_dry.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-12 14:07:15</sys_created_on><sys_id>98f3e3e7db210010343f58b3ca96199b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_dry.user</sys_name><sys_package display_value="Demo Dry Run" source="x_308211_demo_dry">40f3afa7db210010343f58b3ca9619c2</sys_package><sys_policy/><sys_scope display_value="Demo Dry Run">40f3afa7db210010343f58b3ca9619c2</sys_scope><sys_update_name>sys_user_role_98f3e3e7db210010343f58b3ca96199b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-12 14:07:15</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1789413669</payload_hash>
+<remote_update_set display_value="Demo Dry Run - 1.0.0">b4f5276bdb210010343f58b3ca961970</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:16:02</sys_created_on>
+<sys_id>fcf5276bdb210010343f58b3ca961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa7742f20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:16:02</sys_updated_on>
+<table/>
+<target_name>x_308211_demo_dry.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>31e5e36bf9210010f052d39ba6c5a54d</update_guid>
+<update_guid_history>31e5e36bf9210010f052d39ba6c5a54d:1789413669,d0f3e3e75a21001030fe49c7c2071b9f:12844460</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
