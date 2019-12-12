@@ -1,0 +1,16 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "09f4672bdb210010343f58b3ca96195e",
+  "order": 200,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-12 14:12:24",
+  "sys_id": "ff15e72bdb210010343f58b3ca96194f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-12 14:12:24",
+  "value": {
+    "____see": "sn\\Demo Dry Run\\Values\\sys_atf_step\\ff15e72bdb210010343f58b3ca96194f.js"
+  },
+  "variable": "989d9e235324220002c6435723dc3484"
+}

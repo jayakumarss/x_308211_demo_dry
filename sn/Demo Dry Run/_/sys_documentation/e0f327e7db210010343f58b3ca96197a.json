@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Demo Dry Run Table",
+  "language": "en",
+  "name": "x_308211_demo_dry_run_table",
+  "plural": "Demo Dry Run Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-12 14:07:17",
+  "sys_id": "e0f327e7db210010343f58b3ca96197a",
+  "sys_mod_count": 0,
+  "sys_name": "Demo Dry Run Table",
+  "sys_package": "40f3afa7db210010343f58b3ca9619c2",
+  "sys_policy": null,
+  "sys_scope": "40f3afa7db210010343f58b3ca9619c2",
+  "sys_update_name": "sys_documentation_x_308211_demo_dry_run_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-12 14:07:17",
+  "url": null,
+  "url_target": null
+}
