@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2019-12-12 14:09:12
  * Created By  : admin
- * Updated On  : 2019-12-12 14:13:36
+ * Updated On  : 2019-12-12 14:29:01
  * Updated By  : admin
  * URL         : /sys_script_include.do?sys_id=3204e7e7db210010343f58b3ca9619f9
  */
@@ -26,10 +26,16 @@ DemoDryRun1.prototype = /** @lends x_308211_demo_dry.module:sys_script_include.D
 	/**
 	 * Description
 	 * 
-	 * @returns {boolean} 
+	 * @returns {boolean}
 	 */
 	executeTest: function(){
 		return true;
 	},
+	/**
+	 * Description
+	 * 
+	 * @returns {undefined}
+	 */
+	changesTo:function(){},
 	type: 'DemoDryRun1'
 };
